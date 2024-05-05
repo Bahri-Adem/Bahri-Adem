@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Adem Bahri <br><br>🔭 I’m working as a Full Stack Developer, crafting innovative web solutions that bridge technology and user experience.<br>📚 I'm currently learning about the latest advancements in AI and machine learning to push the boundaries of intelligent software.<br>⚡ In my free time, I'm a dedicated follower of football ⚽, a passionate gamer 🎮, and an avid cyclist 🚴‍♂️. Discussing matches, exploring virtual realms, and pedaling through scenic routes are my favorite ways to unwind and connect with my interests.<br>🌞 I'm actively seeking a summer internship opportunity ☀️ to further enhance my skills and gain practical experience in the industry.</p>
+<p align="left">- Hey there! I'm Adem Bahri, currently diving into my Final Year Project internship at Berger Levrault in Mauguio, while also chasing my software engineering degree at the National School of Engineers of Sfax.<br><br>- Come September 2024, I'll be tossing my cap and stepping into the shoes of a junior Software Engineer. I'm itching to put my book smarts and coding chops to work, teaming up with bright minds to cook up some seriously cool software solutions.<br><br>- Fuelled by a deep love for all things tech, I'm always on the lookout for the latest trends and tricks. My mission? To shake up the software world with fresh ideas and killer code, fueled by my studies, internship grind, and endless curiosity.<br><br>- When I'm not glued to my keyboard, you'll find me on the pitch ⚽, conquering new game levels 🎮, or pedaling through picturesque trails 🚴‍♂️ for that much-needed recharge.</p>
 
 ###
 
