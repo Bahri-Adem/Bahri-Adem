@@ -28,8 +28,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">⚡  Connect With Me</h3>
 
 ###
